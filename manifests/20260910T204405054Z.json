@@ -1,14 +1,14 @@
 {
     "schemaVersion":  4,
     "repository":  "Custom Pack Simulator Repository",
-    "latestRevision":  "20260910T204405054Z",
-    "publishedUtc":  "2026-09-10T20:44:05.0573747Z",
+    "latestRevision":  "20260910T224003271Z",
+    "publishedUtc":  "2026-09-10T22:40:03.2744686Z",
     "baseline":  {
-                     "revision":  "20260910T204405054Z",
-                     "publishedUtc":  "2026-09-10T20:44:05.0573747Z",
-                     "downloadUrl":  "https://github.com/DragonDenOricas/Custom-Pack-Simulator-Repository/releases/download/repo-updates/RepoBaseline-20260910T204405054Z.zip",
-                     "sha256":  "3A7977109EAD10C232910B1B1113726B97D9E4B95B265E669CE13D7AE8BC5ED3",
-                     "downloadSizeBytes":  151580327
+                     "revision":  "20260910T224003271Z",
+                     "publishedUtc":  "2026-09-10T22:40:03.2744686Z",
+                     "downloadUrl":  "https://github.com/DragonDenOricas/Custom-Pack-Simulator-Repository/releases/download/repo-updates/RepoBaseline-20260910T224003271Z.zip",
+                     "sha256":  "AE875977403968DD94228CA92E9DC9302487ABB0A479D01E8B441A5473689E54",
+                     "downloadSizeBytes":  151583803
                  },
     "layers":  [
 
@@ -17,7 +17,7 @@
                          "baselineReset":  true,
                          "newOrChangedFiles":  87,
                          "deletedFiles":  0,
-                         "downloadSizeBytes":  151580327
+                         "downloadSizeBytes":  151583803
                      },
     "notes":  [
 
@@ -27,523 +27,523 @@
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/10274636.png",
                       "sha256":  "4B9CCAE396EC433D6960BC5DE0E05EE0FB12EA1C6BCAC2F8C606CEA086A22C4A",
                       "size":  1410493,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/10278354.png",
                       "sha256":  "6275C0B025C9BAEEFDC6000255A8AE199A1F7A7F1F85FA5BB3903B4A20C24494",
                       "size":  1409603,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/10282472.png",
                       "sha256":  "49AFB46B0FE05251A3D149ABE50CCD92AC041FA0BA3C720BC815C23E9DACCC40",
                       "size":  1414730,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/11533097.png",
                       "sha256":  "D763D154F27FB0F66B5504F81F0AB00921E48A45C86B112C42025E0C30722D32",
                       "size":  1476539,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/11536172.png",
                       "sha256":  "6F2F7DA53521890EB018C629321DC81DC2FA9B2BAD7DC78ED7A2A7B4AE64EC90",
                       "size":  1200189,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/11612197.png",
                       "sha256":  "BAE05EA10C1E0B1718F78452DC9399BB68DCB973F8B6836DAE367CC9BA4DFCDE",
                       "size":  1049186,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/11692652.png",
                       "sha256":  "AB55140820F481788A29155F19E2CAB77D9305D0FCAE90842BF3EB7894B53FA2",
                       "size":  1529686,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/12193462.png",
                       "sha256":  "2BAC0CBD5F4D0213B34BADA5E8B66DF2C4DD80D27591A5F3C156146D3C38D39E",
                       "size":  1231872,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/12278467.png",
                       "sha256":  "3910917B4B9F3391D71D0D4D1D5AA44195384B0CA772B90A248E54ECAE823AF9",
                       "size":  1297327,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/13239768.png",
                       "sha256":  "C76192EAC08424F8B3007BB79F5B58BD714B78090B19F2A0DBEA248F1830D72C",
                       "size":  1334673,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/99691090.png",
                       "sha256":  "41226A7DCCA3B0E66B2D2D96A6BE117EDC2C33A93366050C746A49B3D2651FD9",
                       "size":  1590592,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/99775031.png",
                       "sha256":  "063019D9B0DBF75143EA63D305697C045DBBBA47D7EDDC67E778E231F9E3B20E",
                       "size":  1563477,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/99814298.png",
                       "sha256":  "FCAC4F7D68B1C034FF9072AC5D69C3A4FEBF2CDEFC2650A43363FF13B1792E24",
                       "size":  1271592,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Cards/99874481.png",
                       "sha256":  "3521FA651EED45659B83ADBBEC00EDE03CF2F5D569625AF4C550FAFD8E3915FE",
                       "size":  1341999,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Products/Blister.png",
                       "sha256":  "6B1DAB261C263E5ACCF54D9678926F4AC0670FC4CF82AF8D66AFC88D02A8F0D9",
                       "size":  3502926,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Products/Booster Box.png",
                       "sha256":  "74F2C858F89873DA002280B4FDEEF4CD8BADB386B78C46460A1B45B6AE4ED184",
                       "size":  7289279,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Products/Loose Pack.png",
                       "sha256":  "F4D2DEF962AD3566941FFF6667A9CF3110BC0673666C200540E53504F708DE3A",
                       "size":  2094471,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Core Booster/SPEV/Promos/Banner.png",
                       "sha256":  "E6005D70BE411B92EB280A311AEB72DACD05F040B20F8570BB70D4573CC004D5",
                       "size":  2473477,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95013120.png",
                       "sha256":  "5D752E2B6CA3C7608F47249EDF9E1317D30D8960BB24B9AAA15E94FC310936DC",
                       "size":  1613598,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95043279.png",
                       "sha256":  "37B071E97DF7745FC264339246E1E0219CDF50AA5B390746A03EC8105AF9B8A3",
                       "size":  1287592,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95058725.png",
                       "sha256":  "0347D88BC5D9C4331CE92B963DAFD551DC5301D315BF88F0F7F251A1662A18DD",
                       "size":  1155541,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95089711.png",
                       "sha256":  "59AC0C75A52062D35833708422A7573EA97CE1F485DE8BB4D1D0A59E75B4DD20",
                       "size":  1134822,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95100473.png",
                       "sha256":  "94F03A811F2ACB1721EEA93E51F1C08E135D6C6A56EA12B04CD663D6610AA875",
                       "size":  1468672,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95117755.png",
                       "sha256":  "B05ECC6CCA0E14B816864B6C72FBF0F76122801DF9DC763AF49DF4E2B3382DD3",
                       "size":  1625162,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95490778.png",
                       "sha256":  "487DBDD8E1A7FA19DD33E9246CD8D8B81EBAD016D3443917CAB77DF9F4647C8D",
                       "size":  1668781,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95504391.png",
                       "sha256":  "C2EB6A6472CFCE7F2EB4935E9635DD0CF1B410B5384B17D2DECC5CDE9799F62F",
                       "size":  1480149,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95516476.png",
                       "sha256":  "6CAE1EBDAD8E92D0662F6E184AF754A7824475CB4E14949C68C25352ECE82371",
                       "size":  1095225,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95789349.png",
                       "sha256":  "1C4F6998C229897083C1F97635585BD614B6C67CF5F759430DFA16D5DAC343C5",
                       "size":  1445596,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95803520.png",
                       "sha256":  "899212442EA0D825146B32C645DE19DF639064849F846E054BD538CC0D8C2C2B",
                       "size":  1366770,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95821475.png",
                       "sha256":  "7B4D861CA89B71C21C522F3CC4BA89FAF7FB67B93C095CFC8ECA437E72B46409",
                       "size":  1398766,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95843108.png",
                       "sha256":  "052634E340196295A8D22209C18C6AF73868016910119393F426230F47995AE8",
                       "size":  1508162,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95897673.png",
                       "sha256":  "BCEFA4C46875B2F275206E8CE9807BD18ADE7D91AF23682B2A33CC714691CC65",
                       "size":  1582163,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95914099.png",
                       "sha256":  "259E5E7F9F89DDE3C0D7E8F1511F932EAF39E66B5238CE19A4CF2C3F9C8A0EA7",
                       "size":  1285621,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95926749.png",
                       "sha256":  "461F39B5198AC96A325D94128C358A6D5934256B52193EC01E46A8C2CB454559",
                       "size":  1216989,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/95938912.png",
                       "sha256":  "22C1F25A41FBA588275BC1B0216E20D2085B9C1630339D5AD5A7CDCB0F37981B",
                       "size":  1402699,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96030131.png",
                       "sha256":  "2DD4642FF703F689C7A0354883DF40BAB8A8887D00587EE21AE34FAAC8F64514",
                       "size":  1257165,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96046302.png",
                       "sha256":  "BBE1FAD6CC47C645E0C9AA9E5A6AE2119A04FBC87FC2A2E6DB6F3478BEB9CA62",
                       "size":  1278159,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96052942.png",
                       "sha256":  "F42A0975A5C3D936AF63C334CB46020B452A886F9483DC19DBD622F5E640B827",
                       "size":  1428239,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96068090.png",
                       "sha256":  "AF44A8EFE9B2C2128631A1BF6B3E526EB6A9D9B5AC60058437B1E58281EB9B65",
                       "size":  1265711,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96082574.png",
                       "sha256":  "F8A9C361DA30D896557730632E60BECD516DBB2B6668A6938BC47A10EC8AD378",
                       "size":  1252331,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96096908.png",
                       "sha256":  "86B83C484F70424BF28C91D22CD929C36DE45EDAD5F79D1ABC9FD0C0549B2990",
                       "size":  1502294,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96112413.png",
                       "sha256":  "DE19A7664767C0F62A2E6D81E45A535256FB4EC1DCC4C645B68665C3FFCFA37C",
                       "size":  1457174,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96365111.png",
                       "sha256":  "42B38A76D44A94D08DF140C252455E4DC55AACFD222EA8AC37FFDD7CD276E411",
                       "size":  1455089,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96394662.png",
                       "sha256":  "B58F5567FE582A057321D286B79FEEE2BC0652293E7D5B92FFD0F13A1602DC3F",
                       "size":  1444005,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96412460.png",
                       "sha256":  "B1F597A960B63A917111B756A1DDBEB3BFAAE7AF3D26CCDF02A4421371DC3E5F",
                       "size":  998372,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96425233.png",
                       "sha256":  "39D496A22A3CD581CA2B4A1831683B08CA0933A51CF35391797CCE2782DC99AE",
                       "size":  982736,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96605772.png",
                       "sha256":  "9A92ECEE848F4CFE97DC6B83E275098BEAE7139A8EE62443F4847C42027AC3BE",
                       "size":  1261844,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96623174.png",
                       "sha256":  "1514680889E487A3DD40E1E2B595A68CB371FE7106C514A054769F388C62F919",
                       "size":  1362489,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96636338.png",
                       "sha256":  "F7F3CF8FFD0D6A77A5BBB18B0D501DB990251599E33219C845AC8C263DAA227B",
                       "size":  1353911,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96654411.png",
                       "sha256":  "D537D6EA44DE52C2A29DA14294FFE3C5986A1A197B3E8A3DC6CFB817B285B7A7",
                       "size":  1375675,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96668744.png",
                       "sha256":  "0BBAE6E08AEC1AD5E636375B997896610ED4A6A7BD5535B92C1B6DB17C6A1FA6",
                       "size":  1175950,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96786006.png",
                       "sha256":  "502E27DDF74D9A61B5A667E00C4D1E58C8D018B084842BD557473CFF1DB5DD79",
                       "size":  1173254,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96801262.png",
                       "sha256":  "DE7BC293A0D84C78110EFDE1FCC9A1C26AC47D72768A3F8E5C301FEFCDC39D9F",
                       "size":  1191177,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96816502.png",
                       "sha256":  "01572385C0FA028C62831A78FD068D87D50D349DD659227CA230B063AA50978E",
                       "size":  1198219,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96834412.png",
                       "sha256":  "53F931E98500DAB18B8D62756C90B036C5C7C75986DBACA3F5CF447FC2285835",
                       "size":  1292700,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/96850868.png",
                       "sha256":  "A60D09A164E902AAC173737C95650F6D9DF2CE279BB74FBCB2FFE30EC2FFA978",
                       "size":  1453761,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/97009096.png",
                       "sha256":  "68D93086B72ADBAF48765F3E5519E09389D6BBFF059AF989072330235FD2A02A",
                       "size":  1078452,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/97026079.png",
                       "sha256":  "317890A7F650933DC88AE069F93A09359663164286D5532D743CF1246BF3ADEE",
                       "size":  1296950,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/97026174.png",
                       "sha256":  "E39168215FDBC578426DA1E17643A0F63FED7C8C12BEAB75EE1EFEB6D7BB4DC8",
                       "size":  1187858,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/97059167.png",
                       "sha256":  "203033175AE8917CAFC9DAEA107681B081438097A69FFBA79BDE14C30BE90E39",
                       "size":  1154850,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Cards/97081018.png",
                       "sha256":  "C23A6E2965E9609C870374A5CA280EDE98ECC2FD6C4CF8F2D58D19ECBD1DDE6C",
                       "size":  980431,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Products/Blister.png",
                       "sha256":  "AB31C8AD3BBFC311A920580CCF08D561486800A7F82E4F11AEED535066806A74",
                       "size":  4180316,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Products/Booster Box.png",
                       "sha256":  "82FC8782967DFD5E4BC3DBEF8474567E23CC1C257969E8B5487ABD8E94383F8F",
                       "size":  7859084,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Products/Loose Pack.png",
                       "sha256":  "E9E928FB34EEEC8581E114F8F162E8E2DD3855B1AE2717C40A68B8E798934F6A",
                       "size":  2230866,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 11/Deck Builder/MAIN/Promos/Banner.png",
                       "sha256":  "391DEF8A48279D5EAD4B48728566360B6AE410F9673EFF001F40A507CB3FB959",
                       "size":  4361049,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/12189746.png",
                       "sha256":  "5F98BC78476F119ED88BE7F200B222645C9B78873F5C95C7418345127FD32F6A",
                       "size":  1570248,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/12966079.png",
                       "sha256":  "8A4EF38A6C407F75C964E60B1C049A325776B2653BBB7A24E946205DD50D82AE",
                       "size":  1971505,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/12978480.png",
                       "sha256":  "B07B62878B8B4F96AF56086D8CC59804BE95BAEA16934C5DEADF1BB3291BED32",
                       "size":  1313767,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/12985324.png",
                       "sha256":  "5CBCD77276248E1155FCAF09D23B3B88205ED0F38432094734D4CAFA1A643B04",
                       "size":  1751890,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/12997576.png",
                       "sha256":  "8CFE4168056EDD4661B1A213C4ABD59AA6E262C2EED37AC5E80083F8E293ACEA",
                       "size":  1596705,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13005646.png",
                       "sha256":  "865F0860C18E917B435B3BBFA96CDAE95312B9FF638952232531C382FF8ECECC",
                       "size":  1726820,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13013163.png",
                       "sha256":  "7FC9DDA3E6E9D957F1AF623C4E4BC91DC59F78B23B150CDAD980BF8AF1398CD7",
                       "size":  1725553,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13106041.png",
                       "sha256":  "D629705BCA6732F90805E872B995E678C94C982AF4430CD8DD8DB0840F186D0D",
                       "size":  1153784,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13120489.png",
                       "sha256":  "8C29C0ED22515861A40598EECC8394A7378A002C6F535A802261B7DE96FD6BF6",
                       "size":  1872537,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13132151.png",
                       "sha256":  "DE0E47427397714221EFEF631B195AC94FDB240B6C336B16B071EC827C847C74",
                       "size":  1889199,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13139125.png",
                       "sha256":  "6394043FB57ADF70A11EA11C6DB49AE0691DF3CC97C01DE93E957778F58BE375",
                       "size":  1800767,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13146275.png",
                       "sha256":  "7CC5435F7456ABE9130378552562E3ADACE698F18141DD8F878DD91CB3464417",
                       "size":  1752719,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13158289.png",
                       "sha256":  "C3435BA79F6867B06FF6279AC1ED413351DB48A3A432220DBDD00B72780D1111",
                       "size":  1471179,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13713588.png",
                       "sha256":  "CCED630E24C93F65062AEC7FC10A9537252B44C5758597CCB5DB4DEFB3B9A40B",
                       "size":  1489003,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Cards/13720959.png",
                       "sha256":  "5D7C9130EF944CFD79AB2543DFDFF4E60544A748FC1342CBA13B264207FEC429",
                       "size":  1849433,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Products/Blister.png",
                       "sha256":  "7CE1EDDF94F51C219DFE4C14E43A0FFA27B08D5C521C810598D77DE133295B6B",
                       "size":  4150916,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Products/Booster Box.png",
                       "sha256":  "2ED59A422FA945685F6F4E72090B87BD4B6F186C0B74E03953A6A1794D0DA595",
                       "size":  4976828,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Products/Loose Pack.png",
                       "sha256":  "E38A253340047AAD2929B562107F88E157938CE605EDFB1412B7DA76F10BFC6E",
                       "size":  2737775,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "assets/Series 12/Core Booster/LUDE/Promos/Banner.png",
                       "sha256":  "0456CC5B332A301F59050DC0E2C6E70AA0406D5236EC32E44C0D7C87D28D4572",
                       "size":  3041228,
-                      "sourceRevision":  "20260910T204405054Z"
-                  },
-                  {
-                      "path":  "database/Custom YGO Database.xlsx",
-                      "sha256":  "0D7CD9CD617F4E237C200E04667CB025C74FDF74209BBBFF7EA62E3053BEDBB0",
-                      "size":  141819,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "database/README.txt",
                       "sha256":  "2C1863625439CE35C288C2FE566DBAEDFE8D3C91C5ED16B7FF27B5E4E48A5CD4",
                       "size":  350,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
+                  },
+                  {
+                      "path":  "database/REPO Database.xlsx",
+                      "sha256":  "916A3D8D57623E2DE517801C10D1040C62FF6C3BDE41A1797E96D5C47CDEED46",
+                      "size":  121439,
+                      "sourceRevision":  "20260910T224003271Z"
                   },
                   {
                       "path":  "icon.png",
                       "sha256":  "62E29F696C1F79574B2F094F7CA6A2C28AEBECCAECB1B8ADD66733789346108D",
                       "size":  2104028,
-                      "sourceRevision":  "20260910T204405054Z"
+                      "sourceRevision":  "20260910T224003271Z"
                   }
               ]
 }
